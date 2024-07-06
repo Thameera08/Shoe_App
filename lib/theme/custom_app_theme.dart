@@ -12,16 +12,16 @@ class AppThemes {
     color: AppConstantsColor.darkTextColor,
   );
   static const TextStyle homeProductName = TextStyle(
-    color: AppConstantsColor.lightTextColor,
+    color: AppConstantsColor.darkTextColor,
     fontSize: 17,
     fontWeight: FontWeight.w500,
   );
   static const TextStyle homeProductModel = TextStyle(
-      color: AppConstantsColor.lightTextColor,
+      color: AppConstantsColor.darkTextColor,
       fontWeight: FontWeight.bold,
       fontSize: 22);
   static const TextStyle homeProductPrice = TextStyle(
-      color: AppConstantsColor.lightTextColor,
+      color: AppConstantsColor.darkTextColor,
       fontWeight: FontWeight.w400,
       fontSize: 16);
   static const TextStyle homeMoreText = TextStyle(
